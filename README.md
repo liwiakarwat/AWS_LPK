@@ -1,9 +1,9 @@
 # ASEiED project - Measuring System
 
 ## Contributors
-* Piotr Nieścior 180573
+* Piotr Nieścior
 * Liwia Karwat
-* Jakub Giembicki  184755
+* Jakub Giembicki
 
 ## Descroption (task 1)
 
