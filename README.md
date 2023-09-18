@@ -3,7 +3,7 @@
 ## Contributors
 * Piotr Nieścior 180573
 * Liwia Karwat
-* Jakub Giembicki
+* Jakub Giembicki  184755
 
 ## Descroption (task 1)
 
